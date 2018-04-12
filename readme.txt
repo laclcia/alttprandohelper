@@ -1,4 +1,5 @@
 rework for keysanity by rydiok.
+corrently bugged in version 1. please wait it is a WIP. the missing stuff will be added soon.
 
 
 Browser-based Item Tracker for A Link to the Past
