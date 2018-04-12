@@ -1,3 +1,6 @@
+rework for keysanity by rydiok.
+
+
 Browser-based Item Tracker for A Link to the Past
 v 5.0.0
 by crossproduct (twitch.tv/crossproduct)
@@ -5,7 +8,7 @@ and Ohga / halfarebel (twitch.tv/halfarebel)
 2017/04/07 - 2017/09/30
                                             ^
                                             |
-                   /\    ¯¯¯||¯¯¯ |   |¯- |¯|¯|    /\
+                   /\    Â¯Â¯Â¯||Â¯Â¯Â¯ |   |Â¯- |Â¯|Â¯|    /\
                   /__\     / |__  |   |  \|_|_|   /__\
                  /\  /\   /  |    |   |  /| | |  /\  /\
                 /__\/__\ |__ |___ |___|_- | | | /__\/__\
